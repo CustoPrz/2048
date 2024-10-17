@@ -18,7 +18,7 @@ This project is a clone of the popular puzzle game [2048](https://play2048.co/),
 To play this 2048 clone, simply download or clone the repository on your local machine:
 
 ```bash
-git clone https://github.com/yourusername/2048-clone.git
+git clone https://github.com/CustoPrz/2048.git
 ```
 Then, open the `index.html` file in your favorite web browser.
 
